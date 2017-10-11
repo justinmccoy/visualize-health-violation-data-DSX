@@ -89,7 +89,7 @@ Click on Image to watch YouTube Video. https://www.youtube.com/watch?v=2Ub8lf4up
 
 ![](images/LN1.png)
 
-2. Click From Url, Enter any Notebook Name and Description and <br>paste notebook URL https://github.ibm.com/IBMCodeLootCrates/datascience-loot-crate/raw/master/labs/VisualizeHealthViolationDataInDSX/New%20York%20Restaurants.ipynb
+2. Click From Url, Enter any Notebook Name and Description and <br>paste notebook URL https://github.com/justinmccoy/visualize-health-violation-data-DSX/blob/master/New%20York%20Restaurants.ipynb
 
 ![](images/LN2.png)
 
